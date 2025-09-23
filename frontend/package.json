@@ -34,7 +34,7 @@
     "expo-web-browser": "~14.2.0",
     "firebase": "^11.0.0",
     "i18next": "^24.0.0",
-    "lucide-react-native": "^0.475.0",
+    "lucide-react-native": "^0.542.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-i18next": "^15.0.0",
