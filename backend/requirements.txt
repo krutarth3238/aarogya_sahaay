@@ -48,3 +48,4 @@ eventlet==0.33.3
 
 # File handling
 Werkzeug==2.3.7
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
